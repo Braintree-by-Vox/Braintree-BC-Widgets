@@ -1,7 +1,8 @@
 # BC Widgets
-
 BC Widgets provides a new-look user interface for Microsoft Dynamics 365 Business Central.
 Role Centres in Microsoft Dynamics 365 Business Central are great, but they have limited flexibility, and they are often cluttered with functions you never use. Changing a role centre, or creating a new role centre, has historically necessitated engaging with a developer.
+
+![alt text](image-15.png)
 
 Using BC Widgets, an end user is able to :
 - Configure their own role centre with the functions most relevant to their daily tasks

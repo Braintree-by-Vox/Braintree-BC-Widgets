@@ -9,3 +9,5 @@ Using BC Widgets, an end user is able to :
 - Build a dashboard of useful information, giving a quick overview of key performance indicators relevant to the business and the user's role
 - Configure different colour schemes and layouts according to personal preference and functionality.
 - Stay focussed on the things you care about.
+
+## [Configuration](Configuration.MD)

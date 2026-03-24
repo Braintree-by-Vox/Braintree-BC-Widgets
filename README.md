@@ -6,7 +6,7 @@ description: Support and documentation for Braintree's Widgets extension to Micr
 
 # Braintree-BC-Widgets
 
-[alt text](image-15.png)
+<!-- [alt text](image-15.png) -->
 
 BC Widgets provides a new-look user interface for Microsoft Dynamics 365 Business Central.
 Role Centres in Microsoft Dynamics 365 Business Central are great, but they have limited flexibility, and they are often cluttered with functions you never use. Changing a role centre, or creating a new role centre, has historically necessitated engaging with a developer.
@@ -16,8 +16,8 @@ Role Centres in Microsoft Dynamics 365 Business Central are great, but they have
 - Configure different colour schemes and layouts according to personal preference and functionality.
 - Stay focussed on the things you care about.
 
-## [Configuration](Configuration.MD)
+<!-- ## [Configuration](Configuration.MD) -->
 
-## [Creating your own Widget Page](PageSetups.MD)
+<!-- ## [Creating your own Widget Page](PageSetups.MD) -->
 
 <!-- ## [Running Widgets as a Role Centre]() --> 

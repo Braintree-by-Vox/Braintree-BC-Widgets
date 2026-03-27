@@ -50,12 +50,12 @@ You can edit the remaining fields as follows:
 |Banner Foreground Style |Click on ... to open the style helper|
 |Banner Height|Enter the height in pixels for the page banner. This should be a smallish number such as 30|
 |Application Title|Enter a text description |
-|Main Control Background Style ||
-|Main Control Width||
-|Main Control Height||
-|Button Height||
-|Button Width||
-|Info Area Height||
+|Main Control Background Style |The formatting style for the background on which buttons will be located. Click on... to open the Style Helper|
+|Main Control Width|Height in points of the main control on which the buttons will be located|
+|Main Control Height|Width in points of the main control on which the buttons will be located|
+|Button Height|Height in points of the buttons on the page |
+|Button Width|Width in points of the buttons on the page |
+|Info Area Height|Height in points of the information area of each button|
 
 
 w1

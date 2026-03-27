@@ -11,3 +11,5 @@ Using BC Widgets, an end user is able to :
 - Stay focussed on the things you care about.
 
 ## [Configuration](Configuration.MD)
+
+## [Setting up Pages](PageSetups.MD)

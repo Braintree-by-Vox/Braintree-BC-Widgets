@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Vendor Reconciliation for Business Central
-description: Support and documentation for Braintree's Vendor Reconciliation extension to Microsoft Dynamics 365 Business Central
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's BC Widgets interface to Microsoft Dynamics 365 Business Central
 ---
 
 # Braintree Widgets Configuration

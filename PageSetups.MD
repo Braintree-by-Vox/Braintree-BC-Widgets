@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's BC Widgets interface to Microsoft Dynamics 365 Business Central
+---
+
 # Setting up pages
 
 BC Widgets allows you to build personalised pages which resemble a standard Microsoft Dynamics 365 Business Central role centre. You can use these to

@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's BC Widgets interface to Microsoft Dynamics 365 Business Central
+---
+
 # Walkthrough: Set up a Widget page to show customers by posting group
 
 ## Create a new page
